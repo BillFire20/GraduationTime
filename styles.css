@@ -1,0 +1,64 @@
+/*@CSS*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+
+body{
+  display: none;
+  
+}
+
+
+
+
+
+@media screen and (max-width: 800px) {
+ body{
+     padding:15px;
+     font-family: 'Poppins', sans-serif;
+     display: block;
+     
+ }
+
+ 
+
+  .title{
+      font-size:4rem;
+      text-align: center;
+      background-color: #cc0000 ;
+      color: white;
+      padding: 25px;
+  }
+
+  .subTitle{
+      text-align: center;
+      padding: 10px;
+  }
+
+  .content_1{
+      text-align: center;
+  }
+
+  .continue_content1{
+      text-align: center;
+      font-size: 1.5em;
+      background-color: #cc0000;
+      padding: 5px;
+      border-radius: 35px;
+      color: white;
+      
+  }
+
+  .chxDin{
+      text-align: center;
+  }
+
+  .acord{
+      text-align: center;
+  }
+ 
+  .acord2{
+      text-align: left;
+  }
+
+
+}
